@@ -37,7 +37,7 @@ I’m a **Computer Science student**, first year—currently debugging my life c
 [![Languages](https://skillicons.dev/icons?i=mysql,sqlite)](https://github.com/AmanDevelops)
 
 ###### Development Tools:
-[![Languages](https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,ubuntu,windows)](https://github.com/AmanDevelops)
+[![Languages](https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,ubuntu)](https://github.com/AmanDevelops)
 
 ###### Development Environments:
 [![Languages](https://skillicons.dev/icons?i=pycharm,vscode,vscodium)](https://github.com/AmanDevelops)
