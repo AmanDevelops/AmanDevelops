@@ -49,6 +49,8 @@ I’m a **Computer Science student**, first year—currently debugging my life c
     <tr>
         <td align="center"><a href="https://github.com/AmanDevelops#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=AmanDevelops&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/AmanDevelops#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=AmanDevelops&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
         <td rowspan="2" align="center"><a href="https://github.com/AmanDevelops#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDevelops&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/AmanDevelops#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDevelops&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+	<td>
+	<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a8f4adf863343482129fb3?variant=dark" alt="roadmap.sh"/></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/AmanDevelops#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanDevelops&theme=default"/></a><a href="https://github.com/AmanDevelops#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanDevelops&theme=tokyonight"/></a></td>
@@ -64,5 +66,7 @@ I’m a **Computer Science student**, first year—currently debugging my life c
     <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
+<br>
+
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
