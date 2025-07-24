@@ -1,14 +1,14 @@
 <img src="./assets/header_divider.gif" width="100%">
 <img src="./assets/header.png">
 
-<h1><b>Hi there, I'm </b><a href="https://github.com/AmanDevelops">Aman Pal</a> <img src="./assets/waving.gif" width="30"></h1>
+# <b>Hi there, I'm </b><a href="https://github.com/AmanDevelops">Aman Pal</a> <img src="./assets/waving.gif" width="30">
 
-<img src = "./assets/about_me.gif" width = 35>&nbsp;**_About Me_**
+<img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
 <img src="./assets/line_break.gif">
 
 <p style="font-size: 1.25rem;">I'm a <b>Software Developer</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python and JavaScript.</p>
 
-<img src="./assets/script_sticker.gif" width ="30">&nbsp; **_Stack I used_**
+<img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
 <img src="./assets/line_break.gif">
 
 <table align="center">
@@ -67,7 +67,6 @@
 </div>
 <br />
 <div>
-
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amandevelops&theme=merko" alt="AmanDevelops github readme activity graph" width="100%" />
 </div>
 <br>
